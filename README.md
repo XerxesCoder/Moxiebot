@@ -30,6 +30,8 @@ Try it out now: [Moxie Bot](https://t.me/moxiepoxiebot)
 - `/info [symbol]` - Fetch detailed information about a specific token (e.g., `/info MOX-M460`).
 - `/buy [symbol] [amount]` - Simulate buying a specific amount of a token and see the price impact.
 - `/sell [symbol] [amount]` - Simulate selling a specific amount of a token and see the price impact.
+- `/score` - Return Top 20 on leaderboard based on Moxie SCORE
+- `/rewards` - Return Top 20 on leaderboard based on Today Rewards
 
 ## How to Use
 1. Start the bot: [Moxie Bot](https://t.me/moxiepoxiebot).
@@ -38,6 +40,8 @@ Try it out now: [Moxie Bot](https://t.me/moxiepoxiebot)
    - To get token info: `/info MOX-M460`
    - To simulate a buy: `/buy MOX-M460 100`
    - To simulate a sell: `/sell MOX-M460 50`
+   - Top 20 By Score: `/score`
+   - Top 20 By Rewards:: `/rewards`
 
 
 
